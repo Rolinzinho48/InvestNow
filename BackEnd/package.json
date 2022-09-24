@@ -1,0 +1,6 @@
+{
+  "name": "BackEnd",
+  "version": "1.0.0",
+  "main": "back.js",
+  "license": "MIT"
+}
